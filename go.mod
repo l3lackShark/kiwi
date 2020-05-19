@@ -1,4 +1,4 @@
-module github.com/Andoryuuta/kiwi
+module github.com/l3lackShark/kiwi
 
 go 1.13
 
