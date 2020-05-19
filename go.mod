@@ -1,9 +1,5 @@
 module github.com/l3lackShark/kiwi
 
-go 1.13
+go 1.14
 
-require (
-	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
-	golang.org/x/sys v0.0.0-20200217220822-9197077df867
-	golang.org/x/text v0.3.2
-)
+require golang.org/x/text v0.3.2
